@@ -1,0 +1,12 @@
+__pycache__
+*.swp
+*.swo
+tmp*
+data/
+test/
+.DS_Store
+/recordings
+/sensors/recordings
+/.vscode
+/references/*.csv
+.idea/

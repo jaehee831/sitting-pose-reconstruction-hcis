@@ -1,0 +1,45 @@
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\MUFLR.dll
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\MUFLR.pdb
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\obj\Debug\MUFLR.dll
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\obj\Debug\MUFLR.pdb
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\obj\Debug\MUFLR.csprojResolveAssemblyReference.cache
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\Tao.DevIl.dll
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\Tao.OpenGl.dll
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\Tao.Sdl.dll
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\Tao.DevIl.xml
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\Tao.OpenGl.xml
+C:\Users\caden_000\Documents\Visual Studio 2013\Projects\MUFLR\MUFLR\bin\Debug\Tao.Sdl.xml
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\MUFLR\MUFLR\bin\Debug\MUFLR.dll
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\MUFLR\MUFLR\bin\Debug\MUFLR.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\MUFLR\MUFLR\obj\Debug\MUFLR.csprojResolveAssemblyReference.cache
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\MUFLR\MUFLR\obj\Debug\MUFLR.dll
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\MUFLR\MUFLR\obj\Debug\MUFLR.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\MUFLR.dll
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\MUFLR.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.csprojResolveAssemblyReference.cache
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.dll
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.pdb
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\MUFLR.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\MUFLR.pdb
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.DevIl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.OpenGl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.Sdl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.DevIl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.OpenGl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.Sdl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.csprojResolveAssemblyReference.cache
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.pdb
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\MUFLR.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\MUFLR.pdb
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.DevIl.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.OpenGl.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.Sdl.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.DevIl.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.OpenGl.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\bin\Debug\Tao.Sdl.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.csprojAssemblyReference.cache
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.csproj.CoreCompileInputs.cache
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.csproj.CopyComplete
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\MUFLR\MUFLR\obj\Debug\MUFLR.pdb

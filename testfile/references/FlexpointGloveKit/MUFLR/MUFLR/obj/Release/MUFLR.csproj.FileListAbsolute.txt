@@ -1,0 +1,11 @@
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\MUFLR.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\MUFLR.pdb
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\Tao.DevIl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\Tao.OpenGl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\Tao.Sdl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\Tao.DevIl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\Tao.OpenGl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\bin\Release\Tao.Sdl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\obj\Release\MUFLR.csprojResolveAssemblyReference.cache
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\obj\Release\MUFLR.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\MUFLR\MUFLR\obj\Release\MUFLR.pdb

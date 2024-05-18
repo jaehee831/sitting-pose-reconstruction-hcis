@@ -1,0 +1,55 @@
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.exe.config
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.exe
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\MUFLR.dll
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\MUFLR.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csprojResolveAssemblyReference.cache
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\TheBird.Bird.resources
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.Properties.Resources.resources
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csproj.GenerateResource.Cache
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.exe
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.pdb
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.exe.config
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.exe
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.pdb
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\MUFLR.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.FreeGlut.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.OpenGl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Platform.Windows.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Sdl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.DevIl.dll
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\MUFLR.pdb
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.FreeGlut.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.OpenGl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Platform.Windows.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Sdl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.DevIl.xml
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csprojResolveAssemblyReference.cache
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\TheBird.Bird.resources
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.Properties.Resources.resources
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csproj.GenerateResource.Cache
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.exe
+D:\pkellnho\PDT\Temp\kitchen\flexpoint\flexpoint glove\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.pdb
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.exe.config
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.exe
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\FlexpointGloveKit.pdb
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\MUFLR.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.FreeGlut.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.OpenGl.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Platform.Windows.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Sdl.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.DevIl.dll
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\MUFLR.pdb
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.FreeGlut.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.OpenGl.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Platform.Windows.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.Sdl.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\bin\Debug\Tao.DevIl.xml
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csprojAssemblyReference.cache
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\TheBird.Bird.resources
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.Properties.Resources.resources
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csproj.GenerateResource.cache
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csproj.CoreCompileInputs.cache
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.csproj.CopyComplete
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.exe
+C:\pkellnho\kitchen\arduino_driver\references\FlexpointGloveKit\FlexpointGloveKit\FlexpointGloveKit\obj\Debug\FlexpointGloveKit.pdb

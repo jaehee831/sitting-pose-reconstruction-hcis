@@ -1,0 +1,22 @@
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\bin\Debug\TheBird.exe.config
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\bin\Debug\TheBird.exe
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\bin\Debug\TheBird.pdb
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\bin\Debug\MUFLR.dll
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\bin\Debug\MUFLR.pdb
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\obj\Debug\TheBird.csprojResolveAssemblyReference.cache
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\obj\Debug\TheBird.Bird.resources
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\obj\Debug\TheBird.Properties.Resources.resources
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\obj\Debug\TheBird.csproj.GenerateResource.Cache
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\obj\Debug\TheBird.exe
+c:\users\caden_000\documents\visual studio 2013\Projects\TheBird\TheBird\obj\Debug\TheBird.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\bin\Debug\TheBird.exe.config
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\obj\Debug\TheBird.exe
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\obj\Debug\TheBird.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\bin\Debug\TheBird.exe
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\bin\Debug\TheBird.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\bin\Debug\MUFLR.dll
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\bin\Debug\MUFLR.pdb
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\obj\Debug\TheBird.csprojResolveAssemblyReference.cache
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\obj\Debug\TheBird.Bird.resources
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\obj\Debug\TheBird.Properties.Resources.resources
+C:\Projects\Flexpoint\GloveRefDesign\Csharp\TheBird\TheBird\TheBird\obj\Debug\TheBird.csproj.GenerateResource.Cache

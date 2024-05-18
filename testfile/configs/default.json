@@ -1,0 +1,31 @@
+{
+    "sensors": [
+        
+        {
+            "type": "touch",
+            "params": {
+                "name": "touch_left",
+                "port": "COM17",
+                "hand": "left",
+                "viz_x": 0,
+                "viz_y": 0,
+                "viz_w": 480,
+                "viz_h": 480
+            }
+        },
+        {
+            "type": "touch",
+            "params": {
+                "name": "touch_right",
+                "port": "COM16",
+                "hand": "right",
+                "viz_x": 480,
+                "viz_y": 0,
+                "viz_w": 480,
+                "viz_h": 480
+            }
+        }
+
+    ]
+}
+
